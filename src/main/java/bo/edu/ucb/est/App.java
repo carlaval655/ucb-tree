@@ -12,7 +12,7 @@ public class App
         tree.add(4);
         tree.add(7);
         tree.add(6);
-        Tree.printInOrder(tree.getRoot());
+        tree.printInOrder(tree.getRoot());
         System.out.println("FIN");
 
     }
